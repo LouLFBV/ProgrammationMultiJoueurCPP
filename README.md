@@ -39,10 +39,10 @@ Le donjon complet doit contient 3 types de monstres distincts (Goblin, Mage et O
 ### Combat
 
 Lorsque le joueur attaque :
-    • Le joueur donne PA + random(0…3) points de dégât\n
-    • Dans un second temps, si le monstre est toujours en vie, il donne PA_MONSTRE + random(0…3)\n
-    • Le serveur notifie tous les joueurs du résultat du coup\n
-    • Si un joueur atteint 0 PV, il est marqué comme mort et ne peut plus interagir avec le monde (il peut toujours utiliser SAY et QUIT).\n
+    • Le joueur donne PA + random(0…3) points de dégât 
+    • Dans un second temps, si le monstre est toujours en vie, il donne PA_MONSTRE + random(0…3)
+    • Le serveur notifie tous les joueurs du résultat du coup
+    • Si un joueur atteint 0 PV, il est marqué comme mort et ne peut plus interagir avec le monde (il peut toujours utiliser SAY et QUIT).
 
 De plus, les ennemis ont des armes avec lesquelles ils infligeront plus de dégâts, mais ils ont aussi des points faibles ; c'est-à-dire qu'en fonction de l'arme utilisée par le joueur, l'ennemi subira plus ou moins de dégâts. Et comme les ennemis sont initialisés avec des armes choisies aléatoirement, cela rend chaque partie différente et donc plus agréable !
 
