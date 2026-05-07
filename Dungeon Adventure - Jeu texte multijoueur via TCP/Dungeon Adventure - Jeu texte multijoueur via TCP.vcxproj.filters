@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Characters">
+      <UniqueIdentifier>{e1ac7271-a35a-4774-8ca0-f9281c531edc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Characters">
+      <UniqueIdentifier>{5328eb29-06da-4f8a-a00b-20f36312c636}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Characters\Enemies">
+      <UniqueIdentifier>{5d8d50f4-4274-47e1-a2e1-da05075bf1ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Characters\Player">
+      <UniqueIdentifier>{b14adb98-cc09-4139-9323-3872e919554d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Characters\Ennemies">
+      <UniqueIdentifier>{a6e9573c-e195-4593-8406-45be8649c4f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Characters\Player">
+      <UniqueIdentifier>{f4276b1a-2122-43c0-b630-de89a991a75c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Game">
+      <UniqueIdentifier>{bf47acd1-c8bd-4f77-a9b6-154dd4de3c70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Game">
+      <UniqueIdentifier>{664dc875-bc89-4995-850b-5e0ca832b9e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Items">
+      <UniqueIdentifier>{5ad7cc6f-b154-4f61-8f5d-e33b5f4c7ac0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Items\Weapons">
+      <UniqueIdentifier>{979097ce-5e90-4461-af1b-488976848c9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Items\Potion">
+      <UniqueIdentifier>{fcf7d768-5389-4259-879f-dd57fe796ed9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Items">
+      <UniqueIdentifier>{a68a81be-0a89-499d-b902-ff4216ab5b1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Items\Weapon">
+      <UniqueIdentifier>{f1bbaa74-0652-4615-8643-e325beef59ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Items\Potion">
+      <UniqueIdentifier>{5ae03385-69bf-47c6-b737-05008fe2eb5e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Character.cpp">
+      <Filter>Fichiers sources\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Fichiers sources\Characters\Ennemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Goblin.cpp">
+      <Filter>Fichiers sources\Characters\Ennemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Mage.cpp">
+      <Filter>Fichiers sources\Characters\Ennemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Orc.cpp">
+      <Filter>Fichiers sources\Characters\Ennemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Fichiers sources\Characters\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>Fichiers sources\Items\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Knife.cpp">
+      <Filter>Fichiers sources\Items\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicWand.cpp">
+      <Filter>Fichiers sources\Items\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="SlingShot.cpp">
+      <Filter>Fichiers sources\Items\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>Fichiers sources\Items\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Fichiers sources\Items\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Dungeon.cpp">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Dungeon Adventure - Jeu texte multijoueur via TCP.cpp">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogic.cpp">
+      <Filter>Fichiers sources\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Potion.cpp">
+      <Filter>Fichiers sources\Items\Potion</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Fichiers sources\Items</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Character.h">
+      <Filter>Fichiers d%27en-tête\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Fichiers d%27en-tête\Characters\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Fichiers d%27en-tête\Characters\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyType.h">
+      <Filter>Fichiers d%27en-tête\Characters\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Goblin.h">
+      <Filter>Fichiers d%27en-tête\Characters\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Mage.h">
+      <Filter>Fichiers d%27en-tête\Characters\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Orc.h">
+      <Filter>Fichiers d%27en-tête\Characters\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogic.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="IAttack.h">
+      <Filter>Fichiers d%27en-tête\Items\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>Fichiers d%27en-tête\Items\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Knife.h">
+      <Filter>Fichiers d%27en-tête\Items\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicWand.h">
+      <Filter>Fichiers d%27en-tête\Items\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Slingshot.h">
+      <Filter>Fichiers d%27en-tête\Items\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>Fichiers d%27en-tête\Items\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Fichiers d%27en-tête\Items\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponType.h">
+      <Filter>Fichiers d%27en-tête\Items\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Dungeon.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Fichiers d%27en-tête\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Potion.h">
+      <Filter>Fichiers d%27en-tête\Items\Potion</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemType.h">
+      <Filter>Fichiers d%27en-tête\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Fichiers d%27en-tête\Items</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

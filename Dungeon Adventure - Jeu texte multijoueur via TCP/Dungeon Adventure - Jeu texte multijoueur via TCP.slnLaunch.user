@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\DungeonClient\\DungeonClient.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

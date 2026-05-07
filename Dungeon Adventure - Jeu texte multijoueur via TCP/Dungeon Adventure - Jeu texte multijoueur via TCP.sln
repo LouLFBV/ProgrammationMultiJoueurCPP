@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dungeon Adventure - Jeu texte multijoueur via TCP", "Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj", "{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DungeonClient", "..\DungeonClient\DungeonClient.vcxproj", "{DBBA6BFC-7578-4AFE-B856-AB4B5F6A2A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}.Debug|x64.ActiveCfg = Debug|x64
+		{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}.Debug|x64.Build.0 = Debug|x64
+		{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}.Debug|x86.Build.0 = Debug|Win32
+		{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}.Release|x64.ActiveCfg = Release|x64
+		{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}.Release|x64.Build.0 = Release|x64
+		{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}.Release|x86.ActiveCfg = Release|Win32
+		{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}.Release|x86.Build.0 = Release|Win32
+		{DBBA6BFC-7578-4AFE-B856-AB4B5F6A2A07}.Debug|x64.ActiveCfg = Debug|x64
+		{DBBA6BFC-7578-4AFE-B856-AB4B5F6A2A07}.Debug|x64.Build.0 = Debug|x64
+		{DBBA6BFC-7578-4AFE-B856-AB4B5F6A2A07}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBBA6BFC-7578-4AFE-B856-AB4B5F6A2A07}.Debug|x86.Build.0 = Debug|Win32
+		{DBBA6BFC-7578-4AFE-B856-AB4B5F6A2A07}.Release|x64.ActiveCfg = Release|x64
+		{DBBA6BFC-7578-4AFE-B856-AB4B5F6A2A07}.Release|x64.Build.0 = Release|x64
+		{DBBA6BFC-7578-4AFE-B856-AB4B5F6A2A07}.Release|x86.ActiveCfg = Release|Win32
+		{DBBA6BFC-7578-4AFE-B856-AB4B5F6A2A07}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {680DA4F7-8A8B-49B1-9804-7F9A23D4F7BE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,716 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBA6BFC-7578-4AFE-B856-AB4B5F6A2A07}|..\\DungeonClient\\DungeonClient.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\DungeonClient\\DungeonClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Dungeon Adventure - Jeu texte multijoueur via TCP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Dungeon Adventure - Jeu texte multijoueur via TCP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Dungeon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Dungeon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\GameLogic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:GameLogic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\SlingShot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:SlingShot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Sword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Sword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\MagicWand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:MagicWand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Knife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Knife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Bomb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Bomb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Sword.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Sword.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\ItemType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:ItemType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\GameLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:GameLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Orc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Orc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Mage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Mage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Goblin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Goblin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\WeaponType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:WeaponType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Knife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Knife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\MagicWand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:MagicWand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Slingshot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Slingshot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\IAttack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:IAttack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Bomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Bomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Dungeon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Dungeon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Orc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Orc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Goblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Goblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\EnemyType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:EnemyType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D751DFE-19A1-4FD6-AA0E-9D58AE0553D9}|Dungeon Adventure - Jeu texte multijoueur via TCP.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\IItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\memory||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameLogic.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\GameLogic.cpp",
+              "RelativeDocumentMoniker": "GameLogic.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\GameLogic.cpp",
+              "RelativeToolTip": "GameLogic.cpp",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAABwBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:57:51.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sword.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Sword.cpp",
+              "RelativeDocumentMoniker": "Sword.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Sword.cpp",
+              "RelativeToolTip": "Sword.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:54:24.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlingShot.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\SlingShot.cpp",
+              "RelativeDocumentMoniker": "SlingShot.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\SlingShot.cpp",
+              "RelativeToolTip": "SlingShot.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:54:15.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MagicWand.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\MagicWand.cpp",
+              "RelativeDocumentMoniker": "MagicWand.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\MagicWand.cpp",
+              "RelativeToolTip": "MagicWand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:54:05.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Knife.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Knife.cpp",
+              "RelativeDocumentMoniker": "Knife.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Knife.cpp",
+              "RelativeToolTip": "Knife.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:53:54.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Weapon.h",
+              "RelativeDocumentMoniker": "Weapon.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Weapon.h",
+              "RelativeToolTip": "Weapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:45:41.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Room.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Room.cpp",
+              "RelativeDocumentMoniker": "Room.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Room.cpp",
+              "RelativeToolTip": "Room.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-28T10:31:04.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dungeon.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Dungeon.cpp",
+              "RelativeDocumentMoniker": "Dungeon.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Dungeon.cpp",
+              "RelativeToolTip": "Dungeon.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-28T10:32:19.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dungeon Adventure - Jeu texte multijoueur via TCP.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Dungeon Adventure - Jeu texte multijoueur via TCP.cpp",
+              "RelativeDocumentMoniker": "Dungeon Adventure - Jeu texte multijoueur via TCP.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Dungeon Adventure - Jeu texte multijoueur via TCP.cpp",
+              "RelativeToolTip": "Dungeon Adventure - Jeu texte multijoueur via TCP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T14:17:26.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DungeonClient.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\DungeonClient\\DungeonClient.cpp",
+              "RelativeDocumentMoniker": "..\\DungeonClient\\DungeonClient.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\DungeonClient\\DungeonClient.cpp",
+              "RelativeToolTip": "..\\DungeonClient\\DungeonClient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-28T10:19:29.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Weapon.cpp",
+              "RelativeDocumentMoniker": "Weapon.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Weapon.cpp",
+              "RelativeToolTip": "Weapon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:54:48.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bomb.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Bomb.cpp",
+              "RelativeDocumentMoniker": "Bomb.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Bomb.cpp",
+              "RelativeToolTip": "Bomb.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:53:35.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sword.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Sword.h",
+              "RelativeDocumentMoniker": "Sword.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Sword.h",
+              "RelativeToolTip": "Sword.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:44:55.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemType.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\ItemType.h",
+              "RelativeDocumentMoniker": "ItemType.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\ItemType.h",
+              "RelativeToolTip": "ItemType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T13:04:42.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Item.cpp",
+              "RelativeDocumentMoniker": "Item.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Item.cpp",
+              "RelativeToolTip": "Item.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-02T12:09:56.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Potion.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Potion.cpp",
+              "RelativeDocumentMoniker": "Potion.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Potion.cpp",
+              "RelativeToolTip": "Potion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T12:49:26.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:37:43.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwCwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:53:20.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Potion.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Potion.h",
+              "RelativeDocumentMoniker": "Potion.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Potion.h",
+              "RelativeToolTip": "Potion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T12:48:30.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameLogic.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\GameLogic.h",
+              "RelativeDocumentMoniker": "GameLogic.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\GameLogic.h",
+              "RelativeToolTip": "GameLogic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:42:54.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Character.cpp",
+              "RelativeDocumentMoniker": "Character.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Character.cpp",
+              "RelativeToolTip": "Character.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:32:37.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Orc.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Orc.cpp",
+              "RelativeDocumentMoniker": "Orc.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Orc.cpp",
+              "RelativeToolTip": "Orc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:53:05.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Mage.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Mage.cpp",
+              "RelativeDocumentMoniker": "Mage.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Mage.cpp",
+              "RelativeToolTip": "Mage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:52:13.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Enemy.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Enemy.cpp",
+              "RelativeToolTip": "Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:51:49.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Goblin.cpp",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Goblin.cpp",
+              "RelativeDocumentMoniker": "Goblin.cpp",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Goblin.cpp",
+              "RelativeToolTip": "Goblin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-01T11:52:04.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Item.h",
+              "RelativeDocumentMoniker": "Item.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Item.h",
+              "RelativeToolTip": "Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-02T12:09:39.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeaponType.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\WeaponType.h",
+              "RelativeDocumentMoniker": "WeaponType.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\WeaponType.h",
+              "RelativeToolTip": "WeaponType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:46:19.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Knife.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Knife.h",
+              "RelativeDocumentMoniker": "Knife.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Knife.h",
+              "RelativeToolTip": "Knife.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:44:12.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MagicWand.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\MagicWand.h",
+              "RelativeDocumentMoniker": "MagicWand.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\MagicWand.h",
+              "RelativeToolTip": "MagicWand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:44:25.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Slingshot.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Slingshot.h",
+              "RelativeDocumentMoniker": "Slingshot.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Slingshot.h",
+              "RelativeToolTip": "Slingshot.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:44:42.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAttack.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\IAttack.h",
+              "RelativeDocumentMoniker": "IAttack.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\IAttack.h",
+              "RelativeToolTip": "IAttack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:43:38.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Bomb.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Bomb.h",
+              "RelativeDocumentMoniker": "Bomb.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Bomb.h",
+              "RelativeToolTip": "Bomb.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:44:02.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Room.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Room.h",
+              "RelativeDocumentMoniker": "Room.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Room.h",
+              "RelativeToolTip": "Room.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-28T10:30:46.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Dungeon.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Dungeon.h",
+              "RelativeDocumentMoniker": "Dungeon.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Dungeon.h",
+              "RelativeToolTip": "Dungeon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-28T10:31:49.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Character.h",
+              "RelativeDocumentMoniker": "Character.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Character.h",
+              "RelativeToolTip": "Character.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:32:27.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Orc.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Orc.h",
+              "RelativeDocumentMoniker": "Orc.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Orc.h",
+              "RelativeToolTip": "Orc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:41:14.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Mage.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Mage.h",
+              "RelativeDocumentMoniker": "Mage.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Mage.h",
+              "RelativeToolTip": "Mage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:41:06.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Goblin.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Goblin.h",
+              "RelativeDocumentMoniker": "Goblin.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Goblin.h",
+              "RelativeToolTip": "Goblin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:40:59.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EnemyType.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\EnemyType.h",
+              "RelativeDocumentMoniker": "EnemyType.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\EnemyType.h",
+              "RelativeToolTip": "EnemyType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:40:24.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\Enemy.h",
+              "RelativeToolTip": "Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T11:40:11.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "memory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\memory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\memory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\memory",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\memory",
+              "ViewState": "AgIAAHcNAAAAAAAAAAApwIgNAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T18:59:29.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory",
+              "ViewState": "AgIAALwCAAAAAAAAAAAWwNICAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-03T14:13:53.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IItem.h",
+              "DocumentMoniker": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\IItem.h",
+              "RelativeDocumentMoniker": "IItem.h",
+              "ToolTip": "C:\\prog_perso\\C\u002B\u002B\\Projet\\Dungeon Adventure - Jeu texte multijoueur via TCP\\IItem.h",
+              "RelativeToolTip": "IItem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-01T12:47:47.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
