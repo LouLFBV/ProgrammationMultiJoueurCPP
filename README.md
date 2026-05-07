@@ -77,3 +77,7 @@ Lorsque le joueur attaque :
 ## 💡 Indication technique
 
 Puisque **TCP** est un protocole de stream, le serveur accumule les octets reçus dans une `std::string` propre à chaque joueur et leur envoie au prochain échange, puis il sépare les messages ligne par ligne.
+
+---
+
+Ce projet n'est bien entendu pas le plus optimisé, j'ai voulu ici mettre en avant le polymorphisme, l'encapsulation, ... en plus du réseau. J'ai également choisi de ne pas utiliser de pointeurs intelligents pour montrer que je sais faire sans.
